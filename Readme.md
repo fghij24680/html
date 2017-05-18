@@ -6,15 +6,10 @@
 
 首先，以下的字体声明都是很糟糕的，切忌使用：
 
-'''
-css
-font-family: "宋体";
+    font-family: "宋体";
 
-font-family: "宋体", Arial;
+    font-family: "宋体", Arial;
 
-font-family: Arial, "宋体", "微软雅黑";
+    font-family: Arial, "宋体", "微软雅黑";
 
-font-family: Helvetica, Arial, "华文细黑", "微软雅黑";
-
-...
-'''
+    font-family: Helvetica, Arial, "华文细黑", "微软雅黑";
